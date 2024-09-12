@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently developing a new app using a cross-platform language.<br>🌱 I’m deepening my knowledge of AI libraries in Python.<br>👯 I’m looking to collaborate with a dynamic, visionary team passionate about creating something extraordinary.<br>👨‍💻 Check out my projects on LinkedIn.<br>📫 Reach out to me through my portfolio website: pleura.net.
+🔭 I’m currently developing a new app using a cross-platform language.<br>🌱 I’m deepening my knowledge of AI libraries in Python.<br>👯 I’m looking to collaborate with a dynamic, visionary team passionate about creating something extraordinary.<br>👨‍💻 Check out my projects on LinkedIn.<br>📫 Reach out to me through my portfolio website: [Portfolio.](https://pleura.net/Portfolio/html/index.html)
 
 
 ## 🌐 Socials:
